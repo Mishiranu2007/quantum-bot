@@ -1,4 +1,4 @@
-
+{
 	"Prefijo": ".",
 	"MultiIdioma": [
 		true,
@@ -34,3 +34,4 @@
 	"WlcLink": "",
 	"FakeServer": false,
 	"recursion": true
+}
